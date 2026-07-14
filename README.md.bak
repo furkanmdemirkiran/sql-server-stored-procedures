@@ -2,7 +2,7 @@
 
 ## English
 
-This project contains Stored Procedure examples developed using the **Northwind** sample database on Microsoft SQL Server.
+This project contains Stored Procedure studies developed using the **Northwind** sample database on Microsoft SQL Server.
 
 The purpose is to apply common data querying and reporting scenarios in business processes using T-SQL and Stored Procedure structures.
 
@@ -46,6 +46,8 @@ This repository was created to document my SQL Server and T-SQL application stud
 
 ---
 
+# SQL Server Stored Procedures
+
 ## Türkçe
 
 Bu proje, Microsoft SQL Server üzerinde **Northwind** örnek veritabanı kullanılarak geliştirilmiş Stored Procedure çalışmalarını içermektedir.
@@ -88,4 +90,4 @@ Bu çalışma kapsamında aşağıdaki SQL konularında pratik yapılmıştır:
 
 ## Amaç
 
-Bu proje, SQL Server ve T-SQL konularındaki uygulama çalışmalarımı ve gelişim sürecimi belgelemek amacıyla oluşturulmuştur.
+Bu repo, SQL Server ve T-SQL konularındaki uygulama çalışmalarımı ve gelişim sürecimi belgelemek amacıyla oluşturulmuştur.
